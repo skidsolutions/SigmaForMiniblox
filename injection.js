@@ -61,7 +61,7 @@ function modifyCode(text) {
 		});
 	`);
 
-	addReplacement('VERSION$1," | ",', '"Vape V4 v1.0.2"," | ",');
+	addReplacement('VERSION$1," | ",', '"Sigma Jello 1.01"," | ",');
 
 	// DRAWING SETUP
 	addReplacement('ut(this,"glintTexture");', `
